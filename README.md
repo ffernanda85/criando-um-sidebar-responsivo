@@ -6,6 +6,17 @@ O projeto consiste na criação de um menu lateral (sidebar) responsivo, ou seja
 ## Demonstração
 [link deploy](https://ffernanda85.github.io/criando-um-sidebar-responsivo/)
 
+## Layout
+### Layout Desktop
+![desktop](./assets/sidebar_desktop.png)
+
+### Layout Tablet
+![desktop](./assets/sidebar_tablet.png)
+
+### Layout Mobile
+![desktop](./assets/sidebar_mobile1.png)
+![desktop](./assets/sidebar_mobile2.png)
+
 ## Tecnologias Utilizadas
 <a href='https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element'> <img style='width:70px' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'></a>
 <a href='https://developer.mozilla.org/pt-BR/docs/Web/JavaScript'> <img style='width:100px' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'></a>
